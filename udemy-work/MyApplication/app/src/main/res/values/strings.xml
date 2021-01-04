@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_id">Please enter ID number</string>
+    <string name="submit_id">Submit</string>
+    <string name="dob_id">Date of Birth: </string>
+    <string name="id_gender">\nGender: </string>
+    <string name="citizenship_id">\nCitizenship: </string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sa_citizen">SA Citizen</string>
+    <string name="permanent_resident">Permanent Resident</string>
+</resources>
